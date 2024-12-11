@@ -1,0 +1,7 @@
+NAMA : Afnan Dika Ramadhan
+
+NIM : 312410518
+
+KELAS: TI24.A5
+
+# LATIHAN OOP
